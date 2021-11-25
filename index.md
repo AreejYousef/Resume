@@ -7,15 +7,15 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Science (Majoring in Bioinformatics) | University of Southern Queensland          | 2003-2007 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| Bachelor of Arts (Majoring in English Language and Literature) | Open Univesity UK | 2006-2010 |
+| Master in TESOL | Griffith University | 2015 |
+| Master in Education and Professional Studies by Research | Griffith University | 2016 |
 
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
+|Griffith University      |Sessional tutor and researcher        |2017-Present|
+|TAFE QLD Brisbane |ESL educator |2017-2019|
 |Griffith University|Software Engineer |2010-2016|
 |Griffith University|Bioinformatician |2008-2010|
 
