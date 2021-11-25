@@ -43,15 +43,14 @@ A Yousef, K Taylor-Leech 2018
 Journal of Home Language Research
 [Link to article](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1253452&dswid=-5205)
 
-**Quadrilingual education in Singapore: pedagogical innovation in language education**
+[**Quadrilingual education in Singapore: pedagogical innovation in language education**](https://www.tandfonline.com/doi/abs/10.1080/14664208.2016.1268355?journalCode=rclp20)
 A. Yousef 2017
 Current Issues in Language Planning
-[Link to article](https://www.tandfonline.com/doi/abs/10.1080/14664208.2016.1268355?journalCode=rclp20)
 
-**Exploring Family Language Policies: A study of Australian families of Arabic-speaking background**
+
+[**Exploring Family Language Policies: A study of Australian families of Arabic-speaking background**](https://d1wqtxts1xzle7.cloudfront.net/50941677/EPS_Master_s_Thesis-Areej_Yousef-s2829645-with-cover-page-v2.pdf?Expires=1637824716&Signature=c~bRzyMI6AgFSM2BoMRl7x2wK2chyz7qnbnM-G7gZwuNYqYfVJmY0kMi1lc5CYwXV9t~GXjLrIrnvsVIoR1krF7QaSaqjylFBeHyRt~9mqnOb67cLYl3RiybbpQBvqvK8ediHRPbaQO0gNQhbba5bcWIydaV1BUin7EpuIWYF9qIHkAPbZ9voUmSS68tPZ7ImUiC5sgVBjTgb0XUifZ5EwXr4W7yC-GZySad7SOHHJbHgFL6B~U-zlGwEn82msafjFe0BA5mIfx4eA-4Q67vdSetNR-ivnYdf9pwhiw1loIaUwxleWAIydbTPbQ7YmRZlKowaKJbBLT6HyCqYun7Bw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
 Thesis
 A. Yousef 2016
-[Link to thesis](https://d1wqtxts1xzle7.cloudfront.net/50941677/EPS_Master_s_Thesis-Areej_Yousef-s2829645-with-cover-page-v2.pdf?Expires=1637824716&Signature=c~bRzyMI6AgFSM2BoMRl7x2wK2chyz7qnbnM-G7gZwuNYqYfVJmY0kMi1lc5CYwXV9t~GXjLrIrnvsVIoR1krF7QaSaqjylFBeHyRt~9mqnOb67cLYl3RiybbpQBvqvK8ediHRPbaQO0gNQhbba5bcWIydaV1BUin7EpuIWYF9qIHkAPbZ9voUmSS68tPZ7ImUiC5sgVBjTgb0XUifZ5EwXr4W7yC-GZySad7SOHHJbHgFL6B~U-zlGwEn82msafjFe0BA5mIfx4eA-4Q67vdSetNR-ivnYdf9pwhiw1loIaUwxleWAIydbTPbQ7YmRZlKowaKJbBLT6HyCqYun7Bw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) 
 
 
 
