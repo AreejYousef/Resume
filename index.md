@@ -38,10 +38,10 @@
 
 ## Publications
 
-**“It would be nice if someone took the load off you”: Arabic-speaking new-Australian mothers and the challenges of heritage language maintenance**
+[**“It would be nice if someone took the load off you”: Arabic-speaking new-Australian mothers and the challenges of heritage language maintenance**](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1253452&dswid=-5205)
 A Yousef, K Taylor-Leech 2018
 Journal of Home Language Research
-[Link to article](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1253452&dswid=-5205)
+
 
 [**Quadrilingual education in Singapore: pedagogical innovation in language education**](https://www.tandfonline.com/doi/abs/10.1080/14664208.2016.1268355?journalCode=rclp20)
 A. Yousef 2017
