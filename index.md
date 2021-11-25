@@ -14,31 +14,45 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |Sessional tutor and researcher        |2017-Present|
+|Griffith University      |Sessional tutor and researcher |2017-Present|
 |TAFE QLD Brisbane |ESL educator |2017-2019|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
 
-## Skills
-
-- Intermediate skills in:
-  - Python
-  - R
-  - Linux/Bash
-  - SQL
+## Research Skills
+- Qualitative data analysis using traditional and digital tools
+- Systematic style literature reviews
 - Communication across different audiences
-- Writing a Github Page Resume then teaching it
+- Software and coding skills in: 
+   - Excel
+   - Endnote
+   - Voyant
+   - Python
+   - GitHub
+   - Jupyter
+
+## Teaching Skills
+- Inclusive education
+- Experience teaching vulnerable students (e.g. refugees and students with mental health issues)
+- Mixed age youth and adult classes
+- Online teaching 
+
 
 ## Publications
 
-**Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
-Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
-https://experts.griffith.edu.au/publication/n4c4419aae6abe7655f9b1611680dd0f1
+**“It would be nice if someone took the load off you”: Arabic-speaking new-Australian mothers and the challenges of heritage language maintenance**
+A Yousef, K Taylor-Leech 2018
+Journal of Home Language Research 3, 1-16
+[Link to article](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1253452&dswid=-5205)
 
+**Quadrilingual education in Singapore: pedagogical innovation in language education**
+Current Issues in Language Planning 18 (3), 323-327t
+A. Yousef 2017
+Current Issues in Language Planning
+[Link to article](https://www.tandfonline.com/doi/abs/10.1080/14664208.2016.1268355?journalCode=rclp20)
 
-**Invited Editorial for Artificial Organs Journal**
-OpenHeart Project – An Open-Source Research Community in the Field of Mechanical Circulatory Support
-Jo P Pauls, Amanda Miotto, Andrew Stephens, Shaun D Gregory, Geoff Tansley 2018
+**Exploring Family Language Policies: A study of Australian families of Arabic-speaking background**
+Thesis
+A. Yousef 2016
+[Link to thesis](https://d1wqtxts1xzle7.cloudfront.net/50941677/EPS_Master_s_Thesis-Areej_Yousef-s2829645-with-cover-page-v2.pdf?Expires=1637824716&Signature=c~bRzyMI6AgFSM2BoMRl7x2wK2chyz7qnbnM-G7gZwuNYqYfVJmY0kMi1lc5CYwXV9t~GXjLrIrnvsVIoR1krF7QaSaqjylFBeHyRt~9mqnOb67cLYl3RiybbpQBvqvK8ediHRPbaQO0gNQhbba5bcWIydaV1BUin7EpuIWYF9qIHkAPbZ9voUmSS68tPZ7ImUiC5sgVBjTgb0XUifZ5EwXr4W7yC-GZySad7SOHHJbHgFL6B~U-zlGwEn82msafjFe0BA5mIfx4eA-4Q67vdSetNR-ivnYdf9pwhiw1loIaUwxleWAIydbTPbQ7YmRZlKowaKJbBLT6HyCqYun7Bw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) 
 
 
 
