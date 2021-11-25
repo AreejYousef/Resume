@@ -46,7 +46,6 @@ Journal of Home Language Research 3, 1-16
 **Quadrilingual education in Singapore: pedagogical innovation in language education**
 Current Issues in Language Planning 18 (3), 323-327t
 A. Yousef 2017
-Current Issues in Language Planning
 [Link to article](https://www.tandfonline.com/doi/abs/10.1080/14664208.2016.1268355?journalCode=rclp20)
 
 **Exploring Family Language Policies: A study of Australian families of Arabic-speaking background**
